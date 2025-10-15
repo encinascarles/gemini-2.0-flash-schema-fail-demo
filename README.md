@@ -1,0 +1,3 @@
+1. export OPENROUTER_API_KEY=...
+2. npm i
+3. node repro-openrouter.js
